@@ -1,5 +1,0 @@
-D:\VS-Project\Android1\Android1\ARM\Debug\Android1.apk.recipe
-D:\VS-Project\Android1\Android1\ARM\Debug\Android1.apk.recipe.merged
-D:\VS-Project\Android1\Android1\ARM\Debug\FileStringReplace.incremental
-D:\VS-Project\Android1\Android1\ARM\Debug\Android1.apk
-D:\VS-Project\Android1\Android1\ARM\Debug\Android1.lastsuccessfuldeploy

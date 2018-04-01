@@ -1,4 +1,0 @@
-﻿  main.cpp
-d:\vs-project\assgn_st\assgn_st\main.cpp(18): warning C4838: 从“double”转换到“float”需要收缩转换
-d:\vs-project\assgn_st\assgn_st\main.cpp(18): warning C4305: “初始化”: 从“double”到“float”截断
-  assgn_st.vcxproj -> D:\VS-Project\assgn_st\Debug\assgn_st.exe
